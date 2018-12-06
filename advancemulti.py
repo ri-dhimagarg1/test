@@ -30,5 +30,6 @@ if __name__ == "__main__":
     # running process p2 to get queue elements 
     p2.start() 
     p2.join()
+    print("hello")
 
 
